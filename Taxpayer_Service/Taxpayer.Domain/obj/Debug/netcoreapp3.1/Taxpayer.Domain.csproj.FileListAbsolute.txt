@@ -1,0 +1,9 @@
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\bin\Debug\netcoreapp3.1\Taxpayer.Domain.deps.json
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\bin\Debug\netcoreapp3.1\Taxpayer.Domain.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.AssemblyInfoInputs.cache
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.AssemblyInfo.cs
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\bin\Debug\netcoreapp3.1\Taxpayer.Domain.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Domain\obj\Debug\netcoreapp3.1\Taxpayer.Domain.csprojAssemblyReference.cache

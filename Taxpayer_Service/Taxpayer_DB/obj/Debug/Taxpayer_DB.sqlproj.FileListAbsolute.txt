@@ -1,0 +1,9 @@
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\bin\Debug\Taxpayer_DB.dacpac
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\bin\Debug\Taxpayer_DB.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\bin\Debug\Taxpayer_DB.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\Taxpayer_DB.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\Taxpayer_DB.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\Model.xml
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\refactor.xml
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\postdeploy.sql
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer_DB\obj\Debug\predeploy.sql

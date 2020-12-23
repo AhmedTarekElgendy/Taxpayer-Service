@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.IntegrationTest\\Taxpayer.IntegrationTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\Taxpayer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\Taxpayer.Application.csproj",
+        "projectName": "Taxpayer.Application",
+        "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\Taxpayer.Application.csproj",
+        "packagesPath": "C:\\Users\\ahmed.tarek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed.tarek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://ado.invoicing.eta.gov.eg/MA-MCS-EG-MOF-Tax-eInvoice/ETA-eInvoice/_packaging/ETA-Apps/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\Taxpayer.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\Taxpayer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\Taxpayer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\Taxpayer.Domain.csproj",
+        "projectName": "Taxpayer.Domain",
+        "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\Taxpayer.Domain.csproj",
+        "packagesPath": "C:\\Users\\ahmed.tarek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed.tarek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://ado.invoicing.eta.gov.eg/MA-MCS-EG-MOF-Tax-eInvoice/ETA-eInvoice/_packaging/ETA-Apps/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.IntegrationTest\\Taxpayer.IntegrationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.IntegrationTest\\Taxpayer.IntegrationTest.csproj",
+        "projectName": "Taxpayer.IntegrationTest",
+        "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.IntegrationTest\\Taxpayer.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\ahmed.tarek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.IntegrationTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed.tarek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://ado.invoicing.eta.gov.eg/MA-MCS-EG-MOF-Tax-eInvoice/ETA-eInvoice/_packaging/ETA-Apps/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\Taxpayer.Api.csproj": {
+                "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\Taxpayer.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Mcs.Invoices.Services.Testing": {
+              "target": "Package",
+              "version": "[0.0.12-preview, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.8-alpha.0.11, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\Taxpayer.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\Taxpayer.Api.csproj",
+        "projectName": "Taxpayer.Api",
+        "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\Taxpayer.Api.csproj",
+        "packagesPath": "C:\\Users\\ahmed.tarek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer_Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed.tarek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://ado.invoicing.eta.gov.eg/MA-MCS-EG-MOF-Tax-eInvoice/ETA-eInvoice/_packaging/ETA-Apps/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\Taxpayer.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmed.tarek\\source\\repos\\Taxpayer_Service\\Taxpayer.Application\\Taxpayer.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

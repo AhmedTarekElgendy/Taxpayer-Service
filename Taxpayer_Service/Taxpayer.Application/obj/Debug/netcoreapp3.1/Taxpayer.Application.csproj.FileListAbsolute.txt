@@ -1,0 +1,12 @@
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\bin\Debug\netcoreapp3.1\Taxpayer.Application.deps.json
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\bin\Debug\netcoreapp3.1\Taxpayer.Application.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.csprojAssemblyReference.cache
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.AssemblyInfoInputs.cache
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.AssemblyInfo.cs
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\bin\Debug\netcoreapp3.1\Taxpayer.Application.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\bin\Debug\netcoreapp3.1\Taxpayer.Domain.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\bin\Debug\netcoreapp3.1\Taxpayer.Domain.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.csproj.CopyComplete
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.dll
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.pdb
+C:\Users\ahmed.tarek\source\repos\Taxpayer_Service\Taxpayer.Application\obj\Debug\netcoreapp3.1\Taxpayer.Application.csproj.CoreCompileInputs.cache
